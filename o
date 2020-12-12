@@ -1,8 +1,5 @@
-
-#include <bits/stdc++.h> 
-using namespace std; 
-  
-
+#include <stdio.h> 
+#include <stdlib.h> 
 bool checkSorted(int n, queue<int>& q) 
 { 
     stack<int> st; 
